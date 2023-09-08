@@ -1,16 +1,13 @@
-### Hi there 👋
+### Boas vindas ao meu perfil ❤️
 
-<!--
-**eduardamuhlbeier/eduardamuhlbeier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduarda Muhlbeier
 
-Here are some ideas to get you started:
+- Estou estudando na Alura;
+- Estou me dsenvolvendo na linguagem JavaScript;
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos deenvolvidos;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 📫
+
+  eduarda.muhlbeier@escola.pr.gov.br
+  
+  @eduardaamuhlbeier
